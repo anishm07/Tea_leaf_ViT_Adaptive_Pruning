@@ -136,7 +136,7 @@ If you use this code, please cite:
   title={Code for: Optimizing Vision Transformers for Tea Leaf Disease Detection: A Comparative Study of Adaptive and Uniform Attention-Head Pruning},
   author={George, Anish M and John, Shajimon K},
   year={2026},
-  note={Software, archived at Zenodo. DOI: <add once available>}
+  note={Software, archived at Zenodo. DOI: <https://doi.org/10.5281/zenodo.22900492>}
 }
 
 @inproceedings{george2026efficient,
